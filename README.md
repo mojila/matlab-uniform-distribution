@@ -7,3 +7,6 @@ Soal "Bangkitkan 20, 100, 500, 1000, 5000 dan 10000  bilangan acak bulat 0 s/d 9
 
 materi:
 [Bab 3 - Bilangan Acak](https://drive.google.com/open?id=1-f4zRxHnlvbltI8nQMpEdYivGiVdWVBO)
+
+notes:
+mode jumlah data ada di branch
