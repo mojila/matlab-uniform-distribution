@@ -1,6 +1,6 @@
 disp("Tugas 3\n");
 
-length = 20;
+length = 5000;
 
 function num = generate()
     num = floor(rand(1,1)*10);
