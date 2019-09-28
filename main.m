@@ -1,22 +1,22 @@
 disp("Tugas 3\n");
 
-length = 20;
+length = 100;
 
-function num = generate_20()
+function num = generate()
     num = floor(rand(1,1)*10);
     return;
 end
 
 generated = [];
 
-for i = 1:20
-    generated = [generated generate_20()];
+for i = 1:length
+    generated = [generated generate()];
 end
 
-disp("\nHasil Generate 20 Angka antara 0-9");
+disp("\nHasil Generate Angka antara 0-9");
 disp(generated);
 
-t = 1:20;
+t = 0:9;
 h = hist(generated, t);
 
 disp("\PDF");
