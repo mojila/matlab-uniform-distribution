@@ -13,7 +13,7 @@ for i = 1:length
     generated = [generated generate()];
 end
 
-disp("\nHasil Generate 20 Angka antara 0-9");
+disp("\nHasil Generate Angka antara 0-9");
 disp(generated);
 
 t = 0:9;
